@@ -124,9 +124,31 @@ python app.py
 
 ## 10. Team Members
 
-* Sadaqat Ali
-* Noman Shahid
-* Ahmad Waheed
+This project was collaboratively developed as a Final Year Project (FYP) by the following team members:
+
+### Team
+
+| Member | Role | GitHub |
+|---------|------|--------|
+| Sadaqat Ali | Project Lead, Full Stack Development, Dashboard Implementation | [@sadaqat-ali-shaker](https://github.com/sadaqat-ali-shaker) |
+| Noman Shahid | Team Member, Contributor, System Development | [@noman9596](https://github.com/noman9596) |
+| Ahmad Waheed | Team Member, Research and Development | - |
+
+---
+
+## Contributors
+
+We appreciate the contributions and collaborative efforts made toward the development of the **Forest Insight Dashboard**.
+
+<a href="https://github.com/sadaqat-ali-shaker/forest-insight-dashboard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sadaqat-ali-shaker/forest-insight-dashboard" />
+</a>
+
+---
+
+## 11. License
+
+This project is developed for academic purposes as part of a Final Year Project.
 
 ---
 
